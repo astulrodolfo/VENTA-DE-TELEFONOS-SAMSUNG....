@@ -1,0 +1,151 @@
+
+<!DOCTYPE html>
+<htlm lang="en">
+
+<head>
+<meta charset="UTF-8"/>
+<meta name="viemport" content="width"=device-width, initial-scale=1.0/>
+<title>SAMSUNG</title>
+<style>
+body{
+margin: 0;
+}
+
+header{
+padding: 5,0px;  
+background-color: rgb(241, 198, 5); 
+text-align: center; 
+}
+
+/* Enlaces del menu*/
+.topnav{
+overflow: hidden;
+background-color: blue;
+}
+
+/* Enlaces del menu*/
+.topnav a{
+float: left;
+display: block;
+color:hsl(303, 98%, 50%);
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* Animacion para el menu*/
+.topnav a:hover{
+background-color:#0ef706;
+color:rgb(22, 6, 245);
+}
+
+/* Estilo para columnas*/
+.row__column{
+float:left;
+padding: 15px;
+}
+
+.row__column.side{
+width: 15%;
+}
+
+.row__column.middle{
+width: 60%;
+}
+/* Contenido deje de ser flotante/*
+.row::after {
+content:"";
+display:table;
+clear:both;
+}
+
+/* Plantilla responsiva/*
+@media screen and (max-width: 600px) {
+.row__column {
+.width: 100%;
+.}
+}
+
+/* Pie de pagina */
+.footer {
+background-color: #f1e103;
+padding: 10px;
+text-align: center;
+
+}
+
+<link rel="stylesheet" type="text/css" href="css/estilo.css" /> 
+ 
+</style>
+</head>
+<body>
+<!-- Definimos el area del encabezado -->
+<div class="header">
+<h1> VENTA DE SAMSUNG </h1>
+</div>
+
+<!-- Crear el menu -->
+<div class="topnav">
+<a href="https://www.mined.gob.sv/" >INICIO</a>
+<!--p align="rigth">MINED -->
+<a href="#">MISION</a>
+<a href="#">VISION</a>
+<a href="https://www.nintendo.com/us/">ASTUL</a>
+<a href=""></a>
+</div>
+<!-- cuerpo de la pagina -->
+<div class="row">`
+<div class="row__column side">
+<h2></h2>TU SANSUNG, TU MUNDO
+<p> VENTA DE SAMSUNG ASTUL</p>
+</div>
+<div class="row__column middle">
+<h2>APPLE LOVERS BIENVENIDOS </h2>
+<p></p>
+</div>
+<div class="row__column side">
+<h2>SAMSUNG DE MUY BUENA CALIDAD</h2>
+<p> LO MEJOR DE LO MEJOR</p>
+</div>
+</div>
+<!-- inicio del piede de pagina -->
+<div class="footer">
+<marquee> <p> <h3> SAMSUNG </h3> </p></marquee>
+</div>
+<p>
+ 
+<div class="footer">
+<p> <h3> SOLO LO MEJOR, PARA TU SAMSUNG</h3> </p>
+</div>
+</p>
+<p> <div class="footer">
+<MARQUEE> <p> <h3> PORQUE TU SAMSUNG MERECE LO MEJOR! </h3> </p>
+</div>
+</p></MARQUEE>
+
+<p>
+ 
+<div class="footer">
+<p> <h3> HAZLO A LA MANERA APPLE </h3> </p>
+</div>
+</p>
+
+ 
+<audio controls> <source src="YAMAha mt09.mp3" type="audio/mp3"> Tu navegador no soporta audio HTML5. </audio>
+
+<marquee> <img src="s24.webp"" width="400" height="200"/> </marquee>
+<marquee behavior="alternate"> <img src="samsung-min.png" width="400" height="200"  onmouseOver="this.src='nip2.jpg'" 
+ onmouseOut= "this.src='Cari2.png'"/> </marquee>
+<video width="600" height="400" controls>
+<source src="tiktokio.com_LH1y92V9FpHhYAmclHlZ.mp3" type="video/mp4">
+</video>
+
+ 
+<a href="Base Access China.html"> Registros </a> <br> 
+ 
+<A HREF="index.html"> A hoja 2 </A> <br>
+<A HREF="iindex.html"> A hoja 3 </A>
+
+</body>
+
+</html>
